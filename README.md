@@ -1,31 +1,58 @@
-# Grafo 1
+# Grafos 1
 
 **Número da Lista**: 1  
 **Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01  
 
-
 ## Alunos
 
-
-<div align = "center">
+<div align="center">
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/leticiakrpaiva"><img style="border-radius: 50%;" src="https://github.com/leticiakrpaiva.png" width="190;" alt=""/><br /><sub><b>Letícia Paiva</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://github.com/Yagoas"><img style="border-radius: 50%;" src="https://github.com/Yagoas.png" width="190px;" alt=""/><br /><sub><b>Yago A.</b></sub></a><br />
+    <td align="center">
+      <a href="https://github.com/leticiakrpaiva">
+        <img style="border-radius: 50%;" src="https://github.com/leticiakrpaiva.png" width="190;" alt=""/>
+        <br /><sub><b>Letícia Paiva</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yagoas">
+        <img style="border-radius: 50%;" src="https://github.com/Yagoas.png" width="190px;" alt=""/>
+        <br /><sub><b>Yago A.</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
+</div>
 
 | Matrícula   | Aluno                              |
 | ----------- | ---------------------------------- |
 | 22/1037803  | Letícia Kellen Ramos Paiva         |
 | 19/0101091  | Yago Amin Santos                   |
-</div>
 
-## Sobre 
+## Sobre
+
+Foram escolhidos 4 exercícios da plataforma **LeetCode**, relacionados ao conteúdo de **Grafos**:
+
+- **2 exercícios de nível difícil**  
+- **2 exercícios de nível médio**  
+
+A divisão foi feita da seguinte forma: cada integrante da dupla ficou responsável por **1 exercício de nível médio** e **1 exercício de nível difícil**.  
+
+---
+
+## Exercícios Resolvidos
+
+# [Exercício 2076 - Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests?envType=problem-list-v2&envId=graph)
 
 
-## Screenshots
+**Nível:**  Difícil (Hard)
 
+## Descrição
+![Descrição](./assets/descrição.png)
 
+## Solução
+![Solução](./assets/solução.png)
 
+## Código
+O código da solução está em [2076-process-restricted-friend-request.py](./exercicios/2076-process-restricted-friend-request.py).
 
