@@ -48,11 +48,24 @@ A divisão foi feita da seguinte forma: cada integrante da dupla ficou responsá
 **Nível:**  Difícil (Hard)
 
 ## Descrição
-![Descrição](./assets/descrição.png)
+![Descrição](./assets/descrição2076.png)
 
 ## Solução
-![Solução](./assets/solução.png)
+![Solução](./assets/solução2076.png)
 
 ## Código
 O código da solução está em [2076-process-restricted-friend-request.py](./exercicios/2076-process-restricted-friend-request.py).
 
+# [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms?envType=problem-list-v2&envId=graph)
+
+
+**Nível:**  Médio (Medium)
+
+## Descrição
+![Descrição](./assets/descrição841.png)
+
+## Solução
+![Solução](./assets/solução841.png)
+
+## Código
+O código da solução está em [841-keys-and-room.py](./exercicios/841-keys-and-room.py).
