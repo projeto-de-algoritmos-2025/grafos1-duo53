@@ -69,3 +69,16 @@ O código da solução está em [2076-process-restricted-friend-request.py](./ex
 
 ## Código
 O código da solução está em [841-keys-and-room.py](./exercicios/841-keys-and-room.py).
+
+# [Exercício 785 - Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+
+**Nível:**  Médio (Medium)
+
+## Descrição
+![Descrição](./assets/descrição785.png)
+
+## Solução
+![Solução](./assets/solução785.png)
+
+## Código
+O código da solução está em [785_bipartite_graph.py](./exercicios/785_bipartite_graph.py).
