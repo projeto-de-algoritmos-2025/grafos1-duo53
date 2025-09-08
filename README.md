@@ -70,6 +70,19 @@ O código da solução está em [2076-process-restricted-friend-request.py](./ex
 ## Código
 O código da solução está em [841-keys-and-room.py](./exercicios/841-keys-and-room.py).
 
+# [Exercício 1857 - Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)
+
+**Nível:**  Difícil (Hard)
+
+## Descrição
+![Descrição](./assets/descrição1857.png)
+
+## Solução
+![Solução](./assets/solução1857.png)
+
+## Código
+O código da solução está em [1857_largest_color_value.py](./exercicios/1857_largest_color_value.py).
+
 # [Exercício 785 - Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
 
 **Nível:**  Médio (Medium)
