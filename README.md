@@ -95,3 +95,10 @@ O código da solução está em [1857_largest_color_value.py](./exercicios/1857_
 
 ## Código
 O código da solução está em [785_bipartite_graph.py](./exercicios/785_bipartite_graph.py).
+
+
+##  Vídeo Apresentação
+
+Neste vídeo, apresentamos a explicação e a solução dos exercícios escolhidos 
+
+[Link do Vídeo](https://youtu.be/nGOZSm1xgnM)
